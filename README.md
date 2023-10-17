@@ -118,6 +118,8 @@ https://j9a102.p.ssafy.io
 ### 2. Web
 
 #### 2-1. 메인 페이지
+![메인페이지](https://github.com/leehk77789/SSAFETY/assets/96775737/30aa2554-2064-4b20-ac8a-c1f4fc87040b)
+
 <img src="./docs/images/image2.png"/>   
 
 교통 관제를 모토로 한 웹 페이지에서 통계 결과를 시각화해서 볼 수 있습니다.<br>
